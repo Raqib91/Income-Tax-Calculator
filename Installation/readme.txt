@@ -1,0 +1,3 @@
+Download the software.
+Run the setup file
+Enjoy...
